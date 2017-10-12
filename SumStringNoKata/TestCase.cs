@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace SumStringNoKata
 {
     [TestClass]
-    public class UnitTest1
+    public class TestCase
     {
         [TestMethod]
         public void Success()
